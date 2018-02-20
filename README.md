@@ -9,7 +9,7 @@ Add package to your composer.json
 ```json
 {
     "require": {
-        "maharramoff/money-to-azerbaijani-words": "^v1.0.1"
+        "maharramoff/money-to-azerbaijani-words": "^v1.0.2"
     }
 }
 ```
