@@ -4,6 +4,7 @@
   "description": "This library allows you to convert a money to Azeri words.",
   "type": "library",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=5.5"
   },
