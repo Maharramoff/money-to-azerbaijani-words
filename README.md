@@ -1,3 +1,5 @@
+# PHP money to Azerbaijani words converter
+
 This library allows you to convert a money to Azeri words.
 
 ## Installation
