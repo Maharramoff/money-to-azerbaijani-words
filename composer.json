@@ -5,12 +5,11 @@
   "type": "library",
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.5",
-    "kwn/number-to-words": "~1.2.0"
+    "php": ">=5.5"
   },
   "autoload": {
     "psr-4": {
-      "MoneyToAzeri\\": "src"
+      "MoneyToAz\\": "src"
     }
   },
   "license": "MIT",
