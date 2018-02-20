@@ -1,0 +1,24 @@
+{
+
+  "name": "maharramoff/money-to-azerbaijani-words",
+  "description": "This library allows you to convert a money to Azeri words.",
+  "type": "library",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5",
+    "kwn/number-to-words": "~1.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MoneyToAzeri\\": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maharramoff",
+      "email": "sh.maharramov@gmail.com"
+    }
+  ]
+
+}
