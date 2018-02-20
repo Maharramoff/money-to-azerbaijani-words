@@ -83,6 +83,7 @@ class MoneyToAz extends Words implements MoneyToAzInterface
             $response .= '.';
             $response .= substr($numberParts[1], 0, 2);
         }
+        else $response .= '.00';
 
         return $response;
     }
